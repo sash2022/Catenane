@@ -34,9 +34,7 @@ public class endDistance {
 	     
 	       
 	        ArrayList<String> boxdim = new ArrayList<String>();
-	        
-	            
-	        
+	              
 	        
 	        // make second jtable for reading  atom number and box dimension in first 9 lines of dump file//////////////////////////////////////////	        
 	        Vector<String> header2 = new Vector<String>(2);
